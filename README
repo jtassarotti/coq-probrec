@@ -1,3 +1,13 @@
+This is the Coq development for the following paper:
+
+Verified Tail Bounds for Randomized Programs
+J. Tassarotti, R. Harper
+ITP 2018
+
+It contains a mechanization of a theorem by Karp, as well as extensions
+developed by the first author above, that can be used to derive tail bounds
+probabilistic divide and conquer algorithms.
+
 Building
 -------------------------
 Dependencies (listed by opam package name and version)
