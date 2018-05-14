@@ -1,0 +1,9 @@
+*.v.d
+*.vo
+*.v~
+*.glob
+*.aux
+*.csdp.cache
+*.lia.cache
+*.nia.cache
+*.nra.cache
